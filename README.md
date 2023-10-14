@@ -11,5 +11,5 @@ Là 1 Project dùng ChatGPT để Generate đoạn code về Biểu đồ, thôn
 3. Thêm các thứ cần thiết cho Project từ SFML bao gồm:
 ![image](https://github.com/IamsadVN/Performance-Monitor-Project/assets/112055678/7d47b5a3-50b4-4fda-be4e-7de69e4c6eca)
 5. Sử dụng Thư viện SFML phiên bản SFML-2.5.1 (khúc đằng sau người tạo chịu)
-6. *còn update*
+6. *còn update, đjt con mẹ khuya quá không tập trung ghi được, đợi đi các chú*
 
