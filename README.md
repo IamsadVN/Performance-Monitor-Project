@@ -23,3 +23,7 @@ Là 1 Project dùng ChatGPT để Generate đoạn code về Biểu đồ thông
 15. Sau đó, thêm các thứ cần thiết cho Project từ SFML như ở trên hình kia:
 ![image](https://github.com/IamsadVN/Performance-Monitor-Project/assets/112055678/b059a9a4-af41-4010-8d20-c504492d7e5c)
 16. Cuối cùng, kiểm tra lại xem đã làm đủ các bước chưa, sau đó bấm chạy là hoàn thành
+
+# Về người tạo
+Tạo bởi Iamsad_VN (Lamsech_VN) và ChatGPT (ChatGPT gánh hết cả phần này)
+Nếu có thắc mắc thì vui lòng liên hệ Iamsad_VN#4456 hoặc ChatGPT (Nếu không có ChatGPT thì thua)
