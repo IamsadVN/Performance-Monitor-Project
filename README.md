@@ -21,5 +21,5 @@ Là 1 Project dùng ChatGPT để Generate đoạn code về Biểu đồ thông
 13. Vào thư mục Project
 14. Vào thư mục "bin" và vào thư mục "Debug"
 15. Sau đó, thêm các thứ cần thiết cho Project từ SFML như ở trên hình kia:
-![image](https://github.com/IamsadVN/Performance-Monitor-Project/assets/112055678/7d47b5a3-50b4-4fda-be4e-7de69e4c6eca)
+![image](https://github.com/IamsadVN/Performance-Monitor-Project/assets/112055678/b059a9a4-af41-4010-8d20-c504492d7e5c)
 16. Cuối cùng, kiểm tra lại xem đã làm đủ các bước chưa, sau đó bấm chạy là hoàn thành
